@@ -60,3 +60,5 @@ Incorporating KPI Values: Extracted key performance indicators (KPIs) from pivot
 - Objective: Complete the dashboard design for user-friendly interaction and presentation.
 
 - Design Cohesion: Ensured all elements of the dashboard were well-integrated and visually appealing.
+
+- Note: This is not a dynamic dashboard because I’m using the WPS basic version, which does not support slicers or the timeline feature.
